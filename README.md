@@ -79,3 +79,9 @@ npm start
 ## Stack
 
 Next.js 16 · React 19 · Three.js · React Three Fiber · Tailwind CSS 4 · TypeScript
+
+## Licencia
+
+Este proyecto usa la licencia [Apache 2.0](LICENSE). Puedes usarlo, modificarlo, hacer fork y usarlo con fines comerciales, siempre que **mantengas el archivo [`NOTICE`](NOTICE) y des crédito visible al autor original** ([D1eku](https://github.com/D1eku)).
+
+**Ojo con los shaders de terceros:** varios shaders de `app/constants/shaders/` son adaptaciones de obras publicadas en ShaderToy por otros autores (el crédito está en cada archivo). Esos shaders no están cubiertos por la licencia Apache y siguen bajo los términos de sus autores. Salvo que el autor diga otra cosa, en ShaderToy rige **CC BY-NC-SA 3.0**, que **no permite uso comercial**. Si quieres ganar dinero con este proyecto, reemplaza esos shaders o pide permiso a sus autores.
